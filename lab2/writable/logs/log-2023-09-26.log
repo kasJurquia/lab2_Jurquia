@@ -1,0 +1,60 @@
+CRITICAL - 2023-09-26 13:11:45 --> syntax error, unexpected end of file
+in APPPATH\Views\music_all_in_one.php on line 147.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(70): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
+CRITICAL - 2023-09-26 13:11:47 --> syntax error, unexpected end of file
+in APPPATH\Views\music_all_in_one.php on line 147.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(70): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
+CRITICAL - 2023-09-26 13:11:59 --> syntax error, unexpected end of file
+in APPPATH\Views\music_all_in_one.php on line 147.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(70): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
+CRITICAL - 2023-09-26 13:12:01 --> syntax error, unexpected end of file
+in APPPATH\Views\music_all_in_one.php on line 147.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(70): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
+CRITICAL - 2023-09-26 13:16:51 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\music_all_in_one.php on line 171.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(135): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->play('35')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
+CRITICAL - 2023-09-26 13:16:57 --> syntax error, unexpected end of file, expecting "elseif" or "else" or "endif"
+in APPPATH\Views\music_all_in_one.php on line 171.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('music_all_in_one', [], true)
+ 3 APPPATH\Controllers\MusicController.php(135): view('music_all_in_one', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MusicController->play('35')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MusicController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\lab2\\public\\index.php')
